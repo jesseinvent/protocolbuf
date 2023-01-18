@@ -1,6 +1,6 @@
 ## Protocol Buffers
 
-Protocol buffers are representation of structure data.
+Protocol buffers are representation of structured data.
 
 ## Download protoc (Mac)
 
